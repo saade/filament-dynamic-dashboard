@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Saade\FilamentDynamicDashboard\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FilamentDynamicDashboardCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'filament-dynamic-dashboard';
 
     public $description = 'My command';
 
